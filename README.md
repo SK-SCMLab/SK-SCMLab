@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a 
 - ** Data Analytics: ** SQL, Power BI
 - ** ERP systems: ** SAP MM (Material Management) module, Oracle Fusion SCM
 - ** Planning tools: ** Quintiq Company Planner, Quintiq Demand Planner, Quintiq Data Manager, Quintiq Order Combiner, Llamasoft Supply Chain Guru
-- ** Methodologies: ** Supply Chain Planning & Optimization
+- ** Methodologies: ** Supply Chain Planning & Optimization, Fundamentals of Lean & Six Sigma
 
 ---
 
