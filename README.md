@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a 
 - ['FMCG Project']: Warehouse Automation and Inventory Management
 - ['Digital Manufacturing Project']: Production Planning and Detailed Scheduling
 - ['Communications project']: Governance and Integration
+- ['Risk Management & Analysis']: Data modeling for natural catastrophes & Terrorism
 
 ---
 
