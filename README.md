@@ -1,21 +1,21 @@
-#🤟 Hi there, I'm SK
-👨‍💻 ** Supply Cain Practitioner | 7+ years experience | Data-driven Decision Maker **
+# 🤟Hi there, I'm SK
+👨‍💻 **Supply Cain Practitioner | 7+ years experience | Data-driven Decision Maker**
 
 Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a passion for driving efficiency and insights through data. With over 7 years of hands-on experience, I've worked across:
-- 📦 ** Inventory Management **
-- 🏭 ** Production Planning & Detailed Scheduling **
-- 🏪 ** Warehouse automation **
-- 📊 ** Supply Chain Data analytics **
-- 🪤 ** Risk Management **
-- 🔄 ** End-to-End supply chain optimization **
+- 📦 **Inventory Management**
+- 🏭 **Production Planning & Detailed Scheduling**
+- 🏪 **Warehouse automation**
+- 📊 **Supply Chain Data analytics**
+- 🪤 **Risk Management**
+- 🔄 **End-to-End supply chain optimization**
 
 ---
-## 📎 Tools & Skills
-- ** Excel (Advanced): ** PivotTables, Power Query, Visualization, Excel Tables
-- ** Data Analytics: ** SQL, Power BI
-- ** ERP systems: ** SAP MM (Material Management) module, Oracle Fusion SCM
-- ** Planning tools: ** Quintiq Company Planner, Quintiq Demand Planner, Quintiq Data Manager, Quintiq Order Combiner, Llamasoft Supply Chain Guru
-- ** Methodologies: ** Supply Chain Planning & Optimization, Fundamentals of Lean & Six Sigma
+## 📎Tools & Skills
+- **Excel (Advanced):** PivotTables, Power Query, Visualization, Excel Tables
+- **Data Analytics:** SQL, Power BI
+- **ERP systems:** SAP MM (Material Management) module, Oracle Fusion SCM
+- **Planning tools:** Quintiq Company Planner, Quintiq Demand Planner, Quintiq Data Manager, Quintiq Order Combiner, Llamasoft Supply Chain Guru
+- **Methodologies:** Supply Chain Planning & Optimization, Fundamentals of Lean & Six Sigma
 
 ---
 
