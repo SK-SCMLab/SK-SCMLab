@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a 
 - 📊 **Supply Chain Data analytics**
 - 🪤 **Risk Management**
 - 🔄 **End-to-End supply chain optimization**
+- 🤖 **Prompt Engineering for AI**
 
 ---
 ## 📎Tools & Skills
