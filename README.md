@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a 
 
 ## 🧮 What I'm currently working on
 - Building a deep knowledge on SCM practices
-- Exploring the effective ways of representing Supply Chain Data using Excel
+- Exploring the effective ways of representing Supply Chain Data using Excel and other statistical tools
 
 ---
 ## 👉🏼 Let's connect
