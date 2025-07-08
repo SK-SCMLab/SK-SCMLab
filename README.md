@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a 
 
 ---
 ## 📎Tools & Skills
-- **Excel (Advanced):** PivotTables, Power Query, Visualization, Excel Tables
+- **Excel (Advanced):** PivotTables, Power Query, Visualization, Excel Tables, Visual Basic (VBA) macros
 - **Data Analytics:** SQL, Power BI, Minitab
 - **ERP systems:** SAP MM (Material Management) module, Oracle Fusion SCM
 - **Planning tools:** Quintiq Company Planner, Quintiq Demand Planner, Quintiq Data Manager, Quintiq Order Combiner, Llamasoft Supply Chain Guru
