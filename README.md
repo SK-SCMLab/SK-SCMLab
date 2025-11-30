@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a 
 - **Coding with AI assistance:** Python-13 (PuLP library)
 - **ERP systems:** SAP MM (Material Management) module, Oracle Fusion SCM
 - **Planning tools:** Quintiq Company Planner, Quintiq Demand Planner, Quintiq Data Manager, Quintiq Order Combiner, Llamasoft Supply Chain Guru
-- **Methodologies:** Supply Chain Planning & Optimization, Fundamentals of Lean & Six Sigma
+- **Methodologies:** Supply Chain Planning & Optimization, Lean Six Sigma Black Belt Certified
 - **AI:** Foundation & Essentials of Prompt Engineering
 
 ---
