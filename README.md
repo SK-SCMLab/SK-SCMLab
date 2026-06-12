@@ -1,5 +1,5 @@
 # 🤟Hi there, I'm SK
-👨‍💻 **Supply Cain Practitioner | 7+ years experience | Data-driven Decision Maker**
+👨‍💻 **Supply Chain Transformation Consultant | Planning SME | ERP & Analytics Professional**
 
 Welcome to my GitHub profile! I'm a Supply Chain Transformation and Manufacturing Operations Professional with 8+ years of experience delivering supply chain planning, inventory optimization, production planning, ERP transformation, and digital supply chain initiatives across manufacturing, FMCG, retail, and consulting environments. 
 
@@ -26,23 +26,33 @@ Welcome to my GitHub profile! I'm a Supply Chain Transformation and Manufacturin
 
 ---
 
-## 🗃 Featured Projects
-- ['FMCG Project']: Supply Chain Planning and Optimization
-- ['FMCG Project']: Warehouse Automation and Inventory Management
-- ['Digital Manufacturing Project']: Production Planning and Detailed Scheduling
-- ['Communications project']: Governance and Integration
-- ['Risk Management & Analysis']: Data modeling for natural catastrophes & Terrorism
+## 🗃 Professional Highlights
+- Reduced excess inventory by **23%** through planning optimization initiatives
+- Reduced retail stockouts by **30%** through supply chain process improvements
+- Reduced demand variability by **45%** through planning governance and analytics-driven decision-making
+- Delivered multiple supply chain transformation and ERP modernization programs across global organizations
+- Supported manufacturing, planning, and operational excellence initiatives through APS and ERP solutions
 
 ---
 
 ## 🧮 What I'm currently working on
-- Building a deep knowledge on SCM practices
-- Exploring the effective ways of representing Supply Chain Data using Excel and other statistical tools
+- AI for Supply Chain Planning
+- Digital Supply Chain Transformation
+- Advanced Supply Chain Analytics
+- Supply Chain Control Towers
+- Product Lifecycle Management (PLM)
 
 ---
 ## 👉🏼 Let's connect
-I'm always open to collaboration, learning opportunities, or knowledge exchange in Supply Chain Analytics and Operations
-- 📧 Email: yeluri.s@yahoo.com
-- 🪧['LinkedIn']: www.linkedin.com/in/yskscmx
+I'm always interested in discussing:
+- Supply Chain Planning
+- Manufacturing Operations
+- ERP & APS solutions
+- Digital Transformation
+- Analytics & Business Intelligence
+- Supply Chain Consulting
+
+---
+
 
 ---
