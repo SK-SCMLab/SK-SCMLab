@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a Supply Chain Transformation and Manufacturin
 ---
 ## 📎Tools & Skills
 
-|--------------|--------------------------|
 | **Category** | **Tools & Technologies** |
 |--------------|--------------------------|
 | ERP | Oracle Fusion SCM (Certified), Microsoft Dynamics 365 SCM (Certified) |
