@@ -1,25 +1,29 @@
 # 🤟Hi there, I'm SK
 👨‍💻 **Supply Cain Practitioner | 7+ years experience | Data-driven Decision Maker**
 
-Welcome to my GitHub profile! I'm a Supply Chain Management Professional with a passion for driving efficiency and insights through data. With over 7 years of hands-on experience, I've worked across:
-- 📦 **Inventory Management**
+Welcome to my GitHub profile! I'm a Supply Chain Transformation and Manufacturing Operations Professional with 8+ years of experience delivering supply chain planning, inventory optimization, production planning, ERP transformation, and digital supply chain initiatives across manufacturing, FMCG, retail, and consulting environments. 
+
+- 📦 **Supply Planning & Inventory Optimization**
+- 📈 **Demand Planning & Forecasting**
 - 🏭 **Production Planning & Detailed Scheduling**
-- 🏪 **Warehouse automation**
-- 📊 **Supply Chain Data analytics**
-- 🪤 **Risk Management**
-- 🔄 **End-to-End supply chain optimization**
-- 🤖 **Prompt Engineering for AI**
+- 🏪 **Sales & Operations Planning (S&OP)**
+- 📊 **Supply Chain Analytics & Reporting**
+- 🪤 **Stakeholder & Change Management**
+- 🔄 **Manufacturing Operations**
+- 🤖 **ERP Implementation & Business Process Consulting**
+- 📇 **Supply Chain Transformation**
 
 ---
 ## 📎Tools & Skills
-- **Excel (Advanced):** PivotTables, Power Query, Visualization, Excel Tables, Visual Basic (VBA) macros
-- **Data Analytics:** SQL, Power BI, Minitab
-- **Database Management System:** DBeaver > SQLLite
-- **Coding with AI assistance:** Python-13 (PuLP library)
-- **ERP systems:** SAP MM (Material Management) module, Oracle Fusion SCM
-- **Planning tools:** Quintiq Company Planner, Quintiq Demand Planner, Quintiq Data Manager, Quintiq Order Combiner, Llamasoft Supply Chain Guru
-- **Methodologies:** Supply Chain Planning & Optimization, Lean Six Sigma Black Belt Certified
-- **AI:** Foundation & Essentials of Prompt Engineering
+
+|--------------|--------------------------|
+| **Category** | **Tools & Technologies** |
+|--------------|--------------------------|
+| ERP | Oracle Fusion SCM (Certified), Microsoft Dynamics 365 SCM (Certified) |
+| APS | DELMIA Quintiq (Certified), HYDRA-X, FEDRA |
+| Analytics | Power BI, SQL, Advanced Excel |
+| Supply Chain | Supply Chain Guru, Inventory Optimization, Planning Solutions |
+| Business | Process Transformation, UAT, Business Analysis |
 
 ---
 
